@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.org/VIPnytt/CleanParam-URL-filter.svg?branch=master)](https://travis-ci.org/VIPnytt/CleanParam-URL-filter) [![Code Climate](https://codeclimate.com/github/VIPnytt/CleanParam-URL-filter/badges/gpa.svg)](https://codeclimate.com/github/VIPnytt/CleanParam-URL-filter) [![Test Coverage](https://codeclimate.com/github/VIPnytt/CleanParam-URL-filter/badges/coverage.svg)](https://codeclimate.com/github/VIPnytt/CleanParam-URL-filter/coverage) [![License](https://poser.pugx.org/VIPnytt/CleanParam-URL-filter/license)](https://packagist.org/packages/VIPnytt/CleanParam-URL-filter) [![Join the chat at https://gitter.im/VIPnytt/CleanParam-URL-filter](https://badges.gitter.im/VIPnytt/CleanParam-URL-filter.svg)](https://gitter.im/VIPnytt/CleanParam-URL-filter)
 
 # Clean-Param URL filtering class
+
+[![Join the chat at https://gitter.im/JanPetterMG/CleanParam-URL-filter](https://badges.gitter.im/JanPetterMG/CleanParam-URL-filter.svg)](https://gitter.im/JanPetterMG/CleanParam-URL-filter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 PHP class to filter URL duplicates, with support for [Yandex Clean-Param specifications](https://yandex.com/support/webmaster/controlling-robot/robots-txt.xml#clean-param).
 
 ## Installation
